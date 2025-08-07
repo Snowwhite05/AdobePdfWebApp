@@ -40,14 +40,6 @@ adobe_pdf_webapp/
 > 🗝️ Don’t forget to replace `"YOUR_CLIENT_ID"` in `script.js` with your actual Adobe Embed API client ID.  
 > Get it here: https://developer.adobe.com/document-services/apis/pdf-embed/
 
----
-
-## 📸 Screenshots
-
-Include screenshots here (optional):
-- PDF viewer with sidebar outline
-- Highlighted section with metadata
-- Responsive view on tablet or mobile
 
 ---
 
